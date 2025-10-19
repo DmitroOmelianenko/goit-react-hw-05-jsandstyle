@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/style_components_practies/static/css/main.e6c13ad2.css",
-    "main.js": "/style_components_practies/static/js/main.b5ebd072.js",
-    "static/media/recipepotato.webp": "/style_components_practies/static/media/recipepotato.30cca074452af29e616a.webp",
-    "static/media/tomatorecipelede.webp": "/style_components_practies/static/media/tomatorecipelede.a9d069cf5aada2063a4d.webp",
-    "static/media/smokedsalmonburgers.jpg": "/style_components_practies/static/media/smokedsalmonburgers.7e2585ffde8ebb4319c8.jpg",
-    "static/media/chickenbiryani.webp": "/style_components_practies/static/media/chickenbiryani.86cd113b738c5c6948ce.webp",
-    "static/media/timer.png": "/style_components_practies/static/media/timer.e346eccc3dc4f1980795.png",
-    "static/media/calories.png": "/style_components_practies/static/media/calories.97149ac921626e580c02.png",
-    "index.html": "/style_components_practies/index.html",
-    "main.e6c13ad2.css.map": "/style_components_practies/static/css/main.e6c13ad2.css.map",
-    "main.b5ebd072.js.map": "/style_components_practies/static/js/main.b5ebd072.js.map"
+    "main.css": "/goit-react-hw-05-jsandstyle/static/css/main.e6c13ad2.css",
+    "main.js": "/goit-react-hw-05-jsandstyle/static/js/main.d29bc093.js",
+    "static/media/recipepotato.webp": "/goit-react-hw-05-jsandstyle/static/media/recipepotato.30cca074452af29e616a.webp",
+    "static/media/tomatorecipelede.webp": "/goit-react-hw-05-jsandstyle/static/media/tomatorecipelede.a9d069cf5aada2063a4d.webp",
+    "static/media/smokedsalmonburgers.jpg": "/goit-react-hw-05-jsandstyle/static/media/smokedsalmonburgers.7e2585ffde8ebb4319c8.jpg",
+    "static/media/chickenbiryani.webp": "/goit-react-hw-05-jsandstyle/static/media/chickenbiryani.86cd113b738c5c6948ce.webp",
+    "static/media/timer.png": "/goit-react-hw-05-jsandstyle/static/media/timer.e346eccc3dc4f1980795.png",
+    "static/media/calories.png": "/goit-react-hw-05-jsandstyle/static/media/calories.97149ac921626e580c02.png",
+    "index.html": "/goit-react-hw-05-jsandstyle/index.html",
+    "main.e6c13ad2.css.map": "/goit-react-hw-05-jsandstyle/static/css/main.e6c13ad2.css.map",
+    "main.d29bc093.js.map": "/goit-react-hw-05-jsandstyle/static/js/main.d29bc093.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b5ebd072.js"
+    "static/js/main.d29bc093.js"
   ]
 }
